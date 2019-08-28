@@ -1,0 +1,9 @@
+SHELL COMMANDS
+
+chmod +x: add permission to execute a script like as executable
+chmod +r: add permission to read a script 
+chmod -r: remove permission to read a script
+
+
+
+
